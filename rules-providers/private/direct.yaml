@@ -2,14 +2,14 @@
 # AUTHOR: adiovo
 # REPO: https://raw.githubusercontent.com/adiovo/clash-rules/main/rules-providers/private/direct.yaml
 # GH-CDN: https://cdn.jsdelivr.net/gh/adiovo/clash-rules/rules-providers/private/direct.yaml
-# UPDATED: 2025-10-31
+# UPDATED: 2025-12-09
 # DOMAIN: 0
 # DOMAIN-KEYWORD: 0
-# DOMAIN-SUFFIX: 19
+# DOMAIN-SUFFIX: 21
 # IP-CIDR: 0
 # IP-CIDR6: 0
 # PROCESS-NAME: 2
-# TOTAL: 21
+# TOTAL: 23
 payload:
   # 进程匹配 开始 #
   - PROCESS-NAME,ToDesk.exe,🎯 全球直连
@@ -29,6 +29,7 @@ payload:
   - DOMAIN-SUFFIX,ifconfig.me,🎯 全球直连
   - DOMAIN-SUFFIX,download-cdn.jetbrains.com,🎯 全球直连
   - DOMAIN-SUFFIX,gallerycdn.vsassets.io,🎯 全球直连
+  - DOMAIN-SUFFIX,*.bilin.eu.org,🎯 全球直连
 
   # 此条针对teams.microsoft.com流量走DIRECT
   # - IP-CIDR,52.0.0.0/8,🎯 全球直连
@@ -43,6 +44,7 @@ payload:
   - DOMAIN-SUFFIX,*.testip.xyz,🎯 全球直连
 
   # 图床相关 开始
+  - DOMAIN-SUFFIX,imgchr.com,🎯 全球直连
   - DOMAIN-SUFFIX,imgtu.com,🎯 全球直连
   - DOMAIN-SUFFIX,imgse.com,🎯 全球直连
   - DOMAIN-SUFFIX,ax1x.com,🎯 全球直连,no-resolve
