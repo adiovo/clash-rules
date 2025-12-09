@@ -47,7 +47,7 @@ payload:
   - DOMAIN-SUFFIX,imgchr.com,🎯 全球直连
   - DOMAIN-SUFFIX,imgtu.com,🎯 全球直连
   - DOMAIN-SUFFIX,imgse.com,🎯 全球直连
-  - DOMAIN-SUFFIX,ax1x.com,🎯 全球直连,no-resolve
+  - DOMAIN-SUFFIX,*.ax1x.com,🎯 全球直连
   # 图床相关 结束
   
   # 美团、饿了么 H5端相关 开始
