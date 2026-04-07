@@ -60,5 +60,6 @@ payload:
   # Other
   - DOMAIN-SUFFIX,trashbytes.net,🎯 全球直连
   - DOMAIN-SUFFIX,lempay.com,🎯 全球直连
+  - DOMAIN-SUFFIX,tortoisegit.org,🎯 全球直连
 
   # 域名匹配代理 结束 #
