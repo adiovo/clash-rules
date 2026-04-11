@@ -1,53 +1,53 @@
 # 进程匹配 开始 #
-- PROCESS-NAME,ToDesk.exe,🎯 全球直连
+- PROCESS-NAME,ToDesk.exe
 # 进程匹配 结束 #
 
 # 开发相关 开始 #
-- PROCESS-NAME,Citrix Viewer,🎯 全球直连
+- PROCESS-NAME,Citrix Viewer
 # 开发相关 结束 #
 
 # 域名匹配代理 开始 #
-- DOMAIN-SUFFIX,adiovo.cc,🎯 全球直连
-- DOMAIN-SUFFIX,nexconvert.com,🎯 全球直连
+- DOMAIN-SUFFIX,adiovo.cc
+- DOMAIN-SUFFIX,nexconvert.com
 
-- DOMAIN-SUFFIX,gitee.io,🎯 全球直连
-- DOMAIN-SUFFIX,360.cn,🎯 全球直连
-- DOMAIN-SUFFIX,360safe.com,🎯 全球直连
-# - DOMAIN-SUFFIX,microsoft.com,🎯 全球直连,no-resolve
-- DOMAIN-SUFFIX,ifconfig.me,🎯 全球直连
-- DOMAIN-SUFFIX,download-cdn.jetbrains.com,🎯 全球直连
-- DOMAIN-SUFFIX,gallerycdn.vsassets.io,🎯 全球直连
-- DOMAIN-SUFFIX,*.bilin.eu.org,🎯 全球直连
+- DOMAIN-SUFFIX,gitee.io
+- DOMAIN-SUFFIX,360.cn
+- DOMAIN-SUFFIX,360safe.com
+# - DOMAIN-SUFFIX,microsoft.com,no-resolve
+- DOMAIN-SUFFIX,ifconfig.me
+- DOMAIN-SUFFIX,download-cdn.jetbrains.com
+- DOMAIN-SUFFIX,gallerycdn.vsassets.io
+- DOMAIN-SUFFIX,*.bilin.eu.org
 
 # 此条针对teams.microsoft.com流量走DIRECT
-# - IP-CIDR,52.0.0.0/8,🎯 全球直连
+# - IP-CIDR,52.0.0.0/8
 
-- DOMAIN-SUFFIX,ifanr.com,🎯 全球直连
-- DOMAIN-SUFFIX,hostbuf.com,🎯 全球直连
-- DOMAIN-SUFFIX,tailwindcss.com,🎯 全球直连
+- DOMAIN-SUFFIX,ifanr.com
+- DOMAIN-SUFFIX,hostbuf.com
+- DOMAIN-SUFFIX,tailwindcss.com
 # Epic Game Start
-- DOMAIN-SUFFIX,akamaized.net,🎯 全球直连
+- DOMAIN-SUFFIX,akamaized.net
 
-- DOMAIN-SUFFIX,qianqian.club,🎯 全球直连
-- DOMAIN-SUFFIX,*.testip.xyz,🎯 全球直连
+- DOMAIN-SUFFIX,qianqian.club
+- DOMAIN-SUFFIX,*.testip.xyz
 
 # 图床相关 开始
-- DOMAIN-SUFFIX,imgchr.com,🎯 全球直连
-- DOMAIN-SUFFIX,imgtu.com,🎯 全球直连
-- DOMAIN-SUFFIX,imgse.com,🎯 全球直连
-- DOMAIN-SUFFIX,*.ax1x.com,🎯 全球直连
+- DOMAIN-SUFFIX,imgchr.com
+- DOMAIN-SUFFIX,imgtu.com
+- DOMAIN-SUFFIX,imgse.com
+- DOMAIN-SUFFIX,*.ax1x.com
 # 图床相关 结束
 
 # 美团、饿了么 H5端相关 开始
-- DOMAIN-SUFFIX,ele.me,🎯 全球直连
-- DOMAIN-SUFFIX,dianping.com,🎯 全球直连
-- DOMAIN-SUFFIX,meituan.com,🎯 全球直连
+- DOMAIN-SUFFIX,ele.me
+- DOMAIN-SUFFIX,dianping.com
+- DOMAIN-SUFFIX,meituan.com
 # 美团、饿了么 H5端相关 结束
 
 # Other
-- DOMAIN-SUFFIX,trashbytes.net,🎯 全球直连
-- DOMAIN-SUFFIX,lempay.com,🎯 全球直连
-- DOMAIN-SUFFIX,tortoisegit.org,🎯 全球直连
-- DOMAIN-SUFFIX,*.dell.com,🎯 全球直连
+- DOMAIN-SUFFIX,trashbytes.net
+- DOMAIN-SUFFIX,lempay.com
+- DOMAIN-SUFFIX,tortoisegit.org
+- DOMAIN-SUFFIX,*.dell.com
 
 # 域名匹配代理 结束 #
