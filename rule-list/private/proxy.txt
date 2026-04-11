@@ -1,28 +1,28 @@
 # New Bing 开始
-- DOMAIN-SUFFIX,msecnd.net
-- DOMAIN-SUFFIX,bing.com
-- DOMAIN-SUFFIX,copilot.microsoft.com
+DOMAIN-SUFFIX,msecnd.net
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,copilot.microsoft.com
 # New Bing 结束
 
 # 第三方资源站 开始
-- DOMAIN-SUFFIX,uptodown.com
+DOMAIN-SUFFIX,uptodown.com
 # 第三方资源站 结束
 
 # AI Server Start
 # Claude.ai
-- DOMAIN-SUFFIX,anthropic.com,no-resolve
-- DOMAIN-SUFFIX,claude.com,no-resolve
-- DOMAIN-SUFFIX,claude.ai,no-resolve
+DOMAIN-SUFFIX,anthropic.com,no-resolve
+DOMAIN-SUFFIX,claude.com,no-resolve
+DOMAIN-SUFFIX,claude.ai,no-resolve
 # OpenAI
-- DOMAIN-SUFFIX,openai.com
-- DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,chatgpt.com
 # AI Server End
 
 # Spotify
-- DOMAIN-SUFFIX,spotify.com,no-resolve
-- DOMAIN-SUFFIX,pscdn.co,no-resolve
-- DOMAIN-SUFFIX,scdn.co,no-resolve
-- DOMAIN-SUFFIX,spoti.fi,no-resolve
-- DOMAIN-SUFFIX,spotifycdn.com,no-resolve
-- DOMAIN-SUFFIX,spotifycdn.net,no-resolve
-- DOMAIN-KEYWORD,spotify,no-resolve
+DOMAIN-SUFFIX,spotify.com,no-resolve
+DOMAIN-SUFFIX,pscdn.co,no-resolve
+DOMAIN-SUFFIX,scdn.co,no-resolve
+DOMAIN-SUFFIX,spoti.fi,no-resolve
+DOMAIN-SUFFIX,spotifycdn.com,no-resolve
+DOMAIN-SUFFIX,spotifycdn.net,no-resolve
+DOMAIN-KEYWORD,spotify,no-resolve
