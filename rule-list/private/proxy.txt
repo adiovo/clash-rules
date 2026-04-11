@@ -1,0 +1,28 @@
+# New Bing 开始
+- DOMAIN-SUFFIX,msecnd.net,🚀 节点选择
+- DOMAIN-SUFFIX,bing.com,🚀 节点选择
+- DOMAIN-SUFFIX,copilot.microsoft.com,🚀 节点选择
+# New Bing 结束
+
+# 第三方资源站 开始
+- DOMAIN-SUFFIX,uptodown.com,🚀 节点选择
+# 第三方资源站 结束
+
+# AI Server Start
+# Claude.ai
+- DOMAIN-SUFFIX,anthropic.com,🚀 节点选择,no-resolve
+- DOMAIN-SUFFIX,claude.com,🚀 节点选择,no-resolve
+- DOMAIN-SUFFIX,claude.ai,🚀 节点选择,no-resolve
+# OpenAI
+- DOMAIN-SUFFIX,openai.com,🚀 节点选择
+- DOMAIN-SUFFIX,chatgpt.com,🚀 节点选择
+# AI Server End
+
+# Spotify
+- DOMAIN-SUFFIX,spotify.com,🚀 节点选择,no-resolve
+- DOMAIN-SUFFIX,pscdn.co,🚀 节点选择,no-resolve
+- DOMAIN-SUFFIX,scdn.co,🚀 节点选择,no-resolve
+- DOMAIN-SUFFIX,spoti.fi,🚀 节点选择,no-resolve
+- DOMAIN-SUFFIX,spotifycdn.com,🚀 节点选择,no-resolve
+- DOMAIN-SUFFIX,spotifycdn.net,🚀 节点选择,no-resolve
+- DOMAIN-KEYWORD,spotify,🚀 节点选择,no-resolve
