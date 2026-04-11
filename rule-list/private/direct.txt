@@ -19,9 +19,6 @@ DOMAIN-SUFFIX,download-cdn.jetbrains.com
 DOMAIN-SUFFIX,gallerycdn.vsassets.io
 DOMAIN-SUFFIX,*.bilin.eu.org
 
-# 此条针对teams.microsoft.com流量走DIRECT
-# IP-CIDR,52.0.0.0/8
-
 DOMAIN-SUFFIX,ifanr.com
 DOMAIN-SUFFIX,hostbuf.com
 DOMAIN-SUFFIX,tailwindcss.com
