@@ -1,53 +1,53 @@
 # 进程匹配 开始 #
-- PROCESS-NAME,ToDesk.exe
+PROCESS-NAME,ToDesk.exe
 # 进程匹配 结束 #
 
 # 开发相关 开始 #
-- PROCESS-NAME,Citrix Viewer
+PROCESS-NAME,Citrix Viewer
 # 开发相关 结束 #
 
 # 域名匹配代理 开始 #
-- DOMAIN-SUFFIX,adiovo.cc
-- DOMAIN-SUFFIX,nexconvert.com
+DOMAIN-SUFFIX,adiovo.cc
+DOMAIN-SUFFIX,nexconvert.com
 
-- DOMAIN-SUFFIX,gitee.io
-- DOMAIN-SUFFIX,360.cn
-- DOMAIN-SUFFIX,360safe.com
-# - DOMAIN-SUFFIX,microsoft.com,no-resolve
-- DOMAIN-SUFFIX,ifconfig.me
-- DOMAIN-SUFFIX,download-cdn.jetbrains.com
-- DOMAIN-SUFFIX,gallerycdn.vsassets.io
-- DOMAIN-SUFFIX,*.bilin.eu.org
+DOMAIN-SUFFIX,gitee.io
+DOMAIN-SUFFIX,360.cn
+DOMAIN-SUFFIX,360safe.com
+# DOMAIN-SUFFIX,microsoft.com,no-resolve
+DOMAIN-SUFFIX,ifconfig.me
+DOMAIN-SUFFIX,download-cdn.jetbrains.com
+DOMAIN-SUFFIX,gallerycdn.vsassets.io
+DOMAIN-SUFFIX,*.bilin.eu.org
 
 # 此条针对teams.microsoft.com流量走DIRECT
-# - IP-CIDR,52.0.0.0/8
+# IP-CIDR,52.0.0.0/8
 
-- DOMAIN-SUFFIX,ifanr.com
-- DOMAIN-SUFFIX,hostbuf.com
-- DOMAIN-SUFFIX,tailwindcss.com
+DOMAIN-SUFFIX,ifanr.com
+DOMAIN-SUFFIX,hostbuf.com
+DOMAIN-SUFFIX,tailwindcss.com
 # Epic Game Start
-- DOMAIN-SUFFIX,akamaized.net
+DOMAIN-SUFFIX,akamaized.net
 
-- DOMAIN-SUFFIX,qianqian.club
-- DOMAIN-SUFFIX,*.testip.xyz
+DOMAIN-SUFFIX,qianqian.club
+DOMAIN-SUFFIX,*.testip.xyz
 
 # 图床相关 开始
-- DOMAIN-SUFFIX,imgchr.com
-- DOMAIN-SUFFIX,imgtu.com
-- DOMAIN-SUFFIX,imgse.com
-- DOMAIN-SUFFIX,*.ax1x.com
+DOMAIN-SUFFIX,imgchr.com
+DOMAIN-SUFFIX,imgtu.com
+DOMAIN-SUFFIX,imgse.com
+DOMAIN-SUFFIX,*.ax1x.com
 # 图床相关 结束
 
 # 美团、饿了么 H5端相关 开始
-- DOMAIN-SUFFIX,ele.me
-- DOMAIN-SUFFIX,dianping.com
-- DOMAIN-SUFFIX,meituan.com
+DOMAIN-SUFFIX,ele.me
+DOMAIN-SUFFIX,dianping.com
+DOMAIN-SUFFIX,meituan.com
 # 美团、饿了么 H5端相关 结束
 
 # Other
-- DOMAIN-SUFFIX,trashbytes.net
-- DOMAIN-SUFFIX,lempay.com
-- DOMAIN-SUFFIX,tortoisegit.org
-- DOMAIN-SUFFIX,*.dell.com
+DOMAIN-SUFFIX,trashbytes.net
+DOMAIN-SUFFIX,lempay.com
+DOMAIN-SUFFIX,tortoisegit.org
+DOMAIN-SUFFIX,*.dell.com
 
 # 域名匹配代理 结束 #
