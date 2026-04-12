@@ -1,13 +1,17 @@
 # 进程匹配 开始 #
 PROCESS-NAME,ToDesk.exe
-# 进程匹配 结束 #
 
 # 开发相关 开始 #
 PROCESS-NAME,Citrix Viewer
 # 开发相关 结束 #
 
+# 进程匹配 结束 #
+
+# ----------- 我是分割线 -----------
+
 # 域名匹配代理 开始 #
 DOMAIN-SUFFIX,adiovo.cc
+DOMAIN-SUFFIX,cd-digital.xyz
 DOMAIN-SUFFIX,nexconvert.com
 
 DOMAIN-SUFFIX,gitee.io
