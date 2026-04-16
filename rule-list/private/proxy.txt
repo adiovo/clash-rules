@@ -25,4 +25,4 @@ DOMAIN-SUFFIX,scdn.co,no-resolve
 DOMAIN-SUFFIX,spoti.fi,no-resolve
 DOMAIN-SUFFIX,spotifycdn.com,no-resolve
 DOMAIN-SUFFIX,spotifycdn.net,no-resolve
-DOMAIN-KEYWORD,spotify,no-resolve
+# DOMAIN-KEYWORD,spotify,no-resolve
