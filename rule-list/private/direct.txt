@@ -50,6 +50,7 @@ DOMAIN-SUFFIX,trashbytes.net
 DOMAIN-SUFFIX,lempay.com
 DOMAIN-SUFFIX,tortoisegit.org
 DOMAIN-SUFFIX,dell.com
+DOMAIN-SUFFIX,dellcdn.com
 DOMAIN-SUFFIX,zerofs.link
 
 # 域名匹配代理 结束 #
