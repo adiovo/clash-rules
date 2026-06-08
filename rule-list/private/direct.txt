@@ -55,6 +55,7 @@ DOMAIN-SUFFIX,zerofs.link
 
 # 第三方视频网站影视资源推流相关 开始
 DOMAIN-SUFFIX,cnvod.jimxtc.com
+DOMAIN-SUFFIX,cnvod.cachefly.net
 DOMAIN-SUFFIX,vip.dytt-cine.com
 # 第三方视频网站影视资源推流相关 结束
 
