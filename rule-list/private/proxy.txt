@@ -26,3 +26,6 @@ DOMAIN-SUFFIX,spoti.fi,no-resolve
 DOMAIN-SUFFIX,spotifycdn.com,no-resolve
 DOMAIN-SUFFIX,spotifycdn.net,no-resolve
 # DOMAIN-KEYWORD,spotify,no-resolve
+
+# Others
+DOMAIN-SUFFIX,happymao.cat,no-resolve
