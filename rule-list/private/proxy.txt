@@ -28,4 +28,4 @@ DOMAIN-SUFFIX,spotifycdn.net,no-resolve
 # DOMAIN-KEYWORD,spotify,no-resolve
 
 # Others
-DOMAIN-SUFFIX,happymao.cat,no-resolve
+# DOMAIN-SUFFIX,happymao.cat,no-resolve
