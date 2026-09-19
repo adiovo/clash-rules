@@ -11,9 +11,9 @@ PROCESS-NAME,Citrix Viewer
 
 # 域名匹配代理 开始 #
 DOMAIN-SUFFIX,adiovo.cc
-DOMAIN-SUFFIX,cd-digital.xyz
-DOMAIN-SUFFIX,nexconvert.com
+DOMAIN-SUFFIX,dajucar.com
 
+DOMAIN-SUFFIX,nexconvert.com
 DOMAIN-SUFFIX,gitee.io
 DOMAIN-SUFFIX,360.cn
 DOMAIN-SUFFIX,360safe.com
